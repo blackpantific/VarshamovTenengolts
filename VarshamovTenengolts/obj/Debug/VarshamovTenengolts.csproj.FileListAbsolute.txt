@@ -1,0 +1,7 @@
+G:\Xamarin\VarshamovTenengolts\VarshamovTenengolts\bin\Debug\VarshamovTenengolts.exe.config
+G:\Xamarin\VarshamovTenengolts\VarshamovTenengolts\bin\Debug\VarshamovTenengolts.exe
+G:\Xamarin\VarshamovTenengolts\VarshamovTenengolts\bin\Debug\VarshamovTenengolts.pdb
+G:\Xamarin\VarshamovTenengolts\VarshamovTenengolts\obj\Debug\VarshamovTenengolts.csprojAssemblyReference.cache
+G:\Xamarin\VarshamovTenengolts\VarshamovTenengolts\obj\Debug\VarshamovTenengolts.csproj.CoreCompileInputs.cache
+G:\Xamarin\VarshamovTenengolts\VarshamovTenengolts\obj\Debug\VarshamovTenengolts.exe
+G:\Xamarin\VarshamovTenengolts\VarshamovTenengolts\obj\Debug\VarshamovTenengolts.pdb
